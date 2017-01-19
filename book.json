@@ -1,6 +1,7 @@
 {
     "plugins": [
         "mathjax",
-        "mermaid-full"
+        "mermaid-full",
+        "katex"
     ]
 }

@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Junior STEM Pre-Algebra Core Math Knowledge
+* [Junior STEM Pre-Algebra Core Math Knowledge](junior-stem-pre-algebra-core-math-knowledge.md)
     * [Primes and Divisibility](primes-and-divisibility.md)
     * [Integers and BEDMAS](integers-and-bedmas.md)
     * [Fractions, Decimals and Percents](fractions-decimals-and-percents.md)
@@ -15,4 +15,5 @@
     * [Graphing Data](graphing-data.md)
     * [Probability Theory](probability-theory.md)
 * [Other Topics](other-topics.md)
+* [KaTeX](katex.md)
 
