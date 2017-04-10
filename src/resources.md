@@ -13,4 +13,4 @@
 
 
 
-<a title="By Lydia Kim (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALocked_document.png"><img width="16" alt="Locked document" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Locked_document.png"/></a>
+<a title="By AJ Ashton (http://www.openclipart.org/detail/17931) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APadlock.svg"><img width="16" alt="Padlock" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Padlock.svg/16px-Padlock.svg.png"/></a>
