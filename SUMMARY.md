@@ -1,6 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
+* [MATH 8](math8.md)
+    * [NUMBER AND FLUENCY](number-fluency.md)
+    * [LINEAR RELATIONSHISPS](linear-realationships.md)
+    * [3D OBJECTS](3d-objects.md)
+    * [DATA](data.md)
+* [SCIENCE 8](science8.md)
+    * [CELLS](cells.md)
+    * [MATTER](matter.md)
+    * [ATOMS](atoms.md)
+    * [ELECTRICITY](electricity.md)
 * [Junior STEM Pre-Algebra Core Math Knowledge](junior-stem-pre-algebra-core-math-knowledge.md)
     * [Primes and Divisibility](primes-and-divisibility.md)
     * [Integers and BEDMAS](integers-and-bedmas.md)
