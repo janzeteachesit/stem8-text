@@ -1,2 +1,6 @@
+# global settings
+title: "STEM 8 Text"
+description: "Templeton Science, Technology, Engineering and Math OpenTextbook"
+
 theme: jekyll-theme-slate
-title: STEM 8 Text
+
