@@ -5,11 +5,11 @@ BIG – IDEA: NUMBER & FLUENCY
 				
 
 Big Idea | PCBI | ABI | AAC | ACAT
---- | --- | --- | --- | --- | ---
-Decimal and fractional percent | . | . | . | . | .
-Operations with fractions (+, -, *, /, BEDMAS)  | . | . | . | . | .
+--- | --- | --- | --- | --- 
+Decimal and fractional percent | . | . | . | . 
+Operations with fractions \(\+, \-, \*, \/, BEDMAS\)  | . | . | . | . 
 Brackets and exponents | . | . | . | . | .
-Numerical proportion (rates, ratio, proportions, and percent) | . | . | . | . | .
-Two-term and three-term ratios | . | . | . | . | .
-Surface area and volume (triangular, other right prisms, cylinders) | . | . | . | . | .
-Strategies to determine surface area and volume of a regular solid | . | . | . | . | .
+Numerical proportion (rates, ratio, proportions, and percent) | . | . | . | . 
+Two-term and three-term ratios | . | . | . | . 
+Surface area and volume (triangular, other right prisms, cylinders) | . | . | . | . 
+Strategies to determine surface area and volume of a regular solid | . | . | . | . 
