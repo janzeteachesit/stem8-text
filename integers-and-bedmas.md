@@ -1,3 +1,7 @@
+# [BIG – IDEA: NUMBER & FLUENCY](number-fluency.md)
+
+Number represents, describes, and compares the quantities of ratios, rates, and percent. Computational fluency and flexibility extend to operations with fractions
+
 ## KA **Integers & BEDMAS \(**[**operations**](https://www.khanacademy.org/coach/reports/exercises?dateRange=30&classList=5653164804014080&condition=all&mission=math&search=operations&detail=ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvYzM1Mjg1ZjU0MDk5NDU2Y2IxYTgxOTY5NzI2NmJhYTMM)**\)**
 
 * [**Order of operations**](https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop/pre-algebra-order-of-operations/e/order_of_operations_2)**5 in a row 2016-12-09**
