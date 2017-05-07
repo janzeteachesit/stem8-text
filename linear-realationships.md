@@ -1,5 +1,5 @@
 # WHAT YOU “KNOW” ABOUT MATH 8
-## related to Content Learning Standards.  These are the things KNOWN about Math.
+## related to [Content Learning Standards][new-bc-curriculum-math].  These are the things KNOWN about Math.
 
 [BIG – IDEA: LINEAR RELATIONSHIPS](linear-realationships.md) | PCBI | ABI | AAC | ACAT
 --- | --- | --- | --- | --- 
@@ -24,3 +24,7 @@ Khan Academy
 Other
 - [Solving Equation By Preserving Equality.....Mrs.S - ShowMe](http://www.showme.com/sh/?h=PzCmlrE)
 - [Preservation of Equality - learnalberta.ca](http://www.learnalberta.ca/content/mepg7/html/pg7_preservationofequality/step1.html)
+
+
+
+[new-bc-curriculum-math](https://curriculum.gov.bc.ca/curriculum/mathematics/8)
