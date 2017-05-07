@@ -21,4 +21,6 @@
 Khan Academy
 - https://www.khanacademy.org/math/ab-sixth-grade-math/ab-patterns-relations
 
+Other
 - [Solving Equation By Preserving Equality.....Mrs.S - ShowMe](http://www.showme.com/sh/?h=PzCmlrE)
+- [Preservation of Equality - learnalberta.ca](http://www.learnalberta.ca/content/mepg7/html/pg7_preservationofequality/step1.html)
