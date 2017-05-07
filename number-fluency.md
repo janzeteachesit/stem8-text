@@ -1,7 +1,7 @@
 # WHAT YOU “KNOW” ABOUT MATH 8
 ## related to Content Learning Standards.  These are the things KNOWN about Math.
 
-BIG – IDEA: NUMBER & FLUENCY | PCBI | ABI | AAC | ACAT
+[BIG – IDEA: NUMBER & FLUENCY](number-fluency.md) | PCBI | ABI | AAC | ACAT
 --- | --- | --- | --- | --- 
 [Decimal and fractional percent](fractions-decimals-and-percents.md) | . | . | . | . 
 [Operations with fractions \(\+, \-, \*, \/, BEDMAS\)](integers-and-bedmas.md)  | . | . | . | . 
