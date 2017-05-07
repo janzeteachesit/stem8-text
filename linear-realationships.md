@@ -18,3 +18,7 @@
 - ACAT = ACCURATE, COMPLETE, AND THOROUGH
 
 
+Khan Academy
+- https://www.khanacademy.org/math/ab-sixth-grade-math/ab-patterns-relations
+
+- [Solving Equation By Preserving Equality.....Mrs.S - ShowMe](http://www.showme.com/sh/?h=PzCmlrE)
