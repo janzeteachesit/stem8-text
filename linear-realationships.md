@@ -27,4 +27,4 @@ Other
 
 
 
-[new-bc-curriculum-math](https://curriculum.gov.bc.ca/curriculum/mathematics/8)
+[new-bc-curriculum-math]:(https://curriculum.gov.bc.ca/curriculum/mathematics/8)
