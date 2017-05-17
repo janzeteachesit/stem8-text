@@ -1,19 +1,6 @@
 # Projects
 
 - [Tomatosphere](tomatosphere.md) is a 
-- Observing and Recording Results
-  - Determine Germination: The primary objective of the Seed Investigation is to determine the number of seeds that germinate compared to the number planted for each of the two types of seeds (treated and untreated).  A seed can be considered to have successfully germinated when two (2) distinctly separate cotyledons (embryonic leaves) can be seen (image below).
-  ![](http://tomatosphere.letstalkscience.ca/portals/5/images/cotyledons.jpg)
-  - Recording Results: Record how many seeds germinated each day for 2-3 weeks or until 5 days after the LAST seed germinates. See the example observation chart below. Use a plastic stir stick to mark when each seed has been recorded.
-  - Summarize Results in a Chart
-  EXAMPLE | "A" SEEDS "B" SEEDS
-  --- | --- | ---
-Number of seeds planted | . | .
-Date of planting seeds | . | .
-Date on which first seed germinated | . | .
-Date on which last seed germinated (do not count seeds that did not germinate) | . | .
-Total Number of seeds that germinated | . | .
-
 - Tomatosphere Notes / Links
   - [SEED INVESTIGATION](http://tomatosphere.letstalkscience.ca/Investigation)
   - [Daily Germination Table](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/4-TS-Class-Daily-Germination-Table-Template-4-12.pdf)
