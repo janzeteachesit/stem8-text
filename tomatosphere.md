@@ -3,10 +3,18 @@
 
 - Tomatosphere Notes / Links
   - [SEED INVESTIGATION](http://tomatosphere.letstalkscience.ca/Investigation)
+  - [Seeds and Germination](http://tomatosphere.letstalkscience.ca/Resources/library/ArticleId/4659/seeds-and-germination.aspx)
   - [Daily Germination Table](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/4-TS-Class-Daily-Germination-Table-Template-4-12.pdf)
+  - [Q+Q Observations](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/3-TS-Q-Q-Observations-4-12-Template-FINAL.pdf)
+  - [Seed Investigation Prediction Guide](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Inquiry-Prediction-Guide.pdf)
+  - [Predict-Compare-Share](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/3-TS-Predict-Compare-Share-Germination-of-Tomatoes-Question.pdf) 
+  - [Key Concept Exploration - Germination](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Key-Concept-Exploration-Template-Germination-FINAL.pdf)
+  - [Vocabulary Preview](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Vocabulary-Preview-Seed-Investigation%207-12-FINAL.pdf)
+  - [ Bar Graph Template](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Tomato-seed-germination-by-seed-type-bar-graph-template.pdf)
   - [What is Inquiry?](http://tomatosphere.letstalkscience.ca/Resources/Inquiry)
   - [RESOURCES](http://tomatosphere.letstalkscience.ca/Resources)
   - [RESOURCE LIBRARY](http://tomatosphere.letstalkscience.ca/Resources/Library?res=Learning+Strategies)
+  - [Seed Structure and Anatomy](http://www.seedbiology.de/structure.asp)
 
 - Observing and Recording Results
   - Determine Germination: The primary objective of the Seed Investigation is to determine the number of seeds that germinate compared to the number planted for each of the two types of seeds (treated and untreated).  A seed can be considered to have successfully germinated when two (2) distinctly separate cotyledons (embryonic leaves) can be seen (image below).
