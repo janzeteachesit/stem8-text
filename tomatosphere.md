@@ -11,8 +11,9 @@
   ![](http://tomatosphere.letstalkscience.ca/portals/5/images/cotyledons.jpg)
   - Recording Results: Record how many seeds germinated each day for 2-3 weeks or until 5 days after the LAST seed germinates. See the example observation chart below. Use a plastic stir stick to mark when each seed has been recorded.
   - Summarize Results in a Chart
-  EXAMPLE | "A" SEEDS "B" SEEDS
-  --- | --- | ---
+  
+EXAMPLE | "A" SEEDS "B" SEED
+--- | --- | ---
 Number of seeds planted | . | .
 Date of planting seeds | . | .
 Date on which first seed germinated | . | .
