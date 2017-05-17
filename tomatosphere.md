@@ -12,7 +12,7 @@
   - Recording Results: Record how many seeds germinated each day for 2-3 weeks or until 5 days after the LAST seed germinates. See the example observation chart below. Use a plastic stir stick to mark when each seed has been recorded.
   - Summarize Results in a Chart
   
-EXAMPLE | "A" SEEDS "B" SEED
+EXAMPLE | "A" SEEDS | "B" SEEDS
 --- | --- | ---
 Number of seeds planted | . | .
 Date of planting seeds | . | .
