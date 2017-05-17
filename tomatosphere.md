@@ -12,7 +12,7 @@
   - Recording Results: Record how many seeds germinated each day for 2-3 weeks or until 5 days after the LAST seed germinates. See the example observation chart below. Use a plastic stir stick to mark when each seed has been recorded.
   - Summarize Results in a Chart
   
-EXAMPLE | "A" SEEDS | "B" SEEDS
+EXAMPLE | "G" SEEDS | "H" SEEDS
 --- | --- | ---
 Number of seeds planted | . | .
 Date of planting seeds | . | .
@@ -20,3 +20,6 @@ Date on which first seed germinated | . | .
 Date on which last seed germinated (do not count seeds that did not germinate) | . | .
 Total Number of seeds that germinated | . | .
 
+- Seed Care and Watering
+  - The peat pellets (or soil) should be kept moist during the germination phase. Check the peat pellet or soil daily to ensure that it is damp to the touch, but not soaking wet. Add water accordingly as needed. The watering schedule may vary depending on the humidity of the room.
+  - Remember to water the peat pellets or soil before leaving for the weekend and as soon as possible upon return. It is important that the peat pellets or soil does not dry out.
