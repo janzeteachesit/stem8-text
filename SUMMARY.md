@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [Projects](projects.md)
+    * [Tomatosphere](tomatosphere.md)
 * [MATH 8](math8.md)
     * [NUMBER AND FLUENCY](number-fluency.md)
     * [LINEAR RELATIONSHISPS](linear-realationships.md)
