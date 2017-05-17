@@ -4,6 +4,9 @@
 - Tomatosphere Notes / Links
   - [SEED INVESTIGATION](http://tomatosphere.letstalkscience.ca/Investigation)
   - [Daily Germination Table](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/4-TS-Class-Daily-Germination-Table-Template-4-12.pdf)
+  - [What is Inquiry?](http://tomatosphere.letstalkscience.ca/Resources/Inquiry)
+  - [RESOURCES](http://tomatosphere.letstalkscience.ca/Resources)
+  - [RESOURCE LIBRARY](http://tomatosphere.letstalkscience.ca/Resources/Library?res=Learning+Strategies)
 
 - Observing and Recording Results
   - Determine Germination: The primary objective of the Seed Investigation is to determine the number of seeds that germinate compared to the number planted for each of the two types of seeds (treated and untreated).  A seed can be considered to have successfully germinated when two (2) distinctly separate cotyledons (embryonic leaves) can be seen (image below).
