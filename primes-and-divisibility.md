@@ -3,6 +3,8 @@
 - [Prime Climb](http://mathforlove.com/games/) by the Math-4-Love team
 ![hundreds colouring chart](https://drive.google.com/open?id=0BysMfTbvAUUVWHNlZWs4LXJxRGs)
   - [math-primes-primeclimb - GFolder](https://drive.google.com/open?id=0BysMfTbvAUUVVUVRRVVvbUgzVmM)
+  - [](https://docs.google.com/viewer?url=https://drive.google.com/open?id=0BysMfTbvAUUVVUVRRVVvbUgzVmM]
+)
 ___
 # Khan Academy - [Primes](https://www.khanacademy.org/coach/reports/exercises?dateRange=30&classList=5653164804014080&condition=all&mission=math&search=prime&detail=ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvYzM1Mjg1ZjU0MDk5NDU2Y2IxYTgxOTY5NzI2NmJhYTMM) & [Divisibility](https://www.khanacademy.org/coach/reports/exercises?dateRange=30&classList=5653164804014080&condition=all&mission=math&search=divisibility&detail=ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvYzM1Mjg1ZjU0MDk5NDU2Y2IxYTgxOTY5NzI2NmJhYTMM)\([factors](https://www.khanacademy.org/coach/reports/exercises?dateRange=30&classList=5653164804014080&condition=all&mission=math&search=factors&detail=ag5zfmtoYW4tYWNhZGVteXJUCxIIVXNlckRhdGEiRnVzZXJfaWRfa2V5X2h0dHA6Ly9pZC5raGFuYWNhZGVteS5vcmcvYzM1Mjg1ZjU0MDk5NDU2Y2IxYTgxOTY5NzI2NmJhYTMM)\)
 
