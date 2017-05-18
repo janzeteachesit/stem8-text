@@ -19,7 +19,9 @@ more will germinate | same number will germinate | less will germinate
 
 3. Vocabulary
    - [Vocabulary Preview](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Vocabulary-Preview-Seed-Investigation%207-12-FINAL.pdf) - add words to columns: totally new; heard, not sure; know meanin; use in sentence
-   - [Key Concept Exploration - Germination](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Key-Concept-Exploration-Template-Germination-FINAL.pdf)
+   - [Key Concept Exploration - Germination](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Key-Concept-Exploration-Template-Germination-FINAL.pdf) - articles.
+   
+4. Research Questions
 ___
 
 - Tomatosphere Notes / Links
