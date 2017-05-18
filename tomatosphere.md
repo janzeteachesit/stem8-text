@@ -6,11 +6,11 @@
 - Jesse and Lina will bring the tomatoes from the back room to the class and will return them after.
 - make sure that students put full names and the date on all worksheets and hand them in at the end of the class.
 1. Measure Growth 
-  - [Q+Q Observations](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/3-TS-Q-Q-Observations-4-12-Template-FINAL.pdf); 1 student quantitaive, the other qualitative.  There may not be any significant data to record, yet; but a record should still be done.
-  - take pictures, if have device
+   - [Q+Q Observations](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/3-TS-Q-Q-Observations-4-12-Template-FINAL.pdf); 1 student quantitaive, the other qualitative.  There may not be any significant data to record, yet; but a record should still be done.
+   - take pictures, if have device
 2. Prediction activity
-  - [Seed Investigation Prediction Guide](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Inquiry-Prediction-Guide.pdf) - individual
-  - [Predict-Compare-Share](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/3-TS-Predict-Compare-Share-Germination-of-Tomatoes-Question.pdf); copy over individual, share with partner, each group put info on board in table:
+   - [Seed Investigation Prediction Guide](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/2-TS-Inquiry-Prediction-Guide.pdf) - individual
+   - [Predict-Compare-Share](http://tomatosphere.letstalkscience.ca/Portals/5/Learning-Strategies/3-TS-Predict-Compare-Share-Germination-of-Tomatoes-Question.pdf); copy over individual, share with partner, each group put info on board in table:
 
 more will germinate | same number will germinate | less will germinate
 --- | --- | ---
