@@ -1,5 +1,6 @@
 # Tomatosphere
 ## May-June 2017
+___
 
 ### 20170517
 - Tomato Germination
@@ -15,6 +16,8 @@
 more will germinate | same number will germinate | less will germinate
 --- | --- | ---
 . | . | .
+
+___
 
 - Tomatosphere Notes / Links
   - [tomatosphere - GFolder]()
