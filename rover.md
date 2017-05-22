@@ -1,7 +1,7 @@
 # STEM Roving Rover Build Docs
 __2017-02-06__
 
-[stem-roving-rover-build-docs-i011.md](https://github.com/janzeteachesit/stem8-text/edit/master/rover.md)
+[rover.md - GitHub](https://github.com/janzeteachesit/stem8-text/rover.md)
 
 [Roving Rover Build II: docs Issue #11](https://github.com/janzeteachesit/Learning-Diary/issues/11)
 
